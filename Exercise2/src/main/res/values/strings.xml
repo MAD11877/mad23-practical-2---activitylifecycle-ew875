@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2Practical</string>
+    <string name="btnl1">Follow</string>
+    <string name="btnl2">Message</string>
+    <string name="app_title">MADPractical</string>
+    <string name="editText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nunc eget augue eleifend faucibus eget a velit.</string>
+</resources>
